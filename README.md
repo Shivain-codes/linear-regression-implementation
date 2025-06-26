@@ -30,5 +30,18 @@ It includes:
 
 ---
 
-## 📂 Folder Structure
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/linear-regression-implementation.git
+   cd linear-regression-implementation
+
+2.pip install -r requirements.txt
+
+3.jupyter notebook linear_regression.ipynb
+
+
 
